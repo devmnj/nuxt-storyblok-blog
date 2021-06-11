@@ -1,6 +1,5 @@
 <template>
   <header data-fetch-key="1" class="relative w-full mx-auto bg-white px-8">
-    <!-- {{this.$store.state.siteconfigs}} -->
 
     <div class="max-w-screen-xl mx-auto">
       <div class="flex justify-between items-center py-6 md:justify-start md:space-x-10">
@@ -179,7 +178,6 @@ export default {
   },
   mounted() {
     this.title = this.$store.state.siteconfigs.siteconfigs[0].content.body[0].title;
-
     this.logo = this.$store.state.siteconfigs.siteconfigs[0].content.body[0].logo[0].link.url;
   },
 };
