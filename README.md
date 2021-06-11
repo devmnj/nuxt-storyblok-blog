@@ -1,7 +1,8 @@
 # nuxt-storyblok-blog
 This is a **headless CMS** web app with blog section which is ideal for an Organization. The **StoryBlok** CMS** store the data and vue fetches the data using API. Users can edit Story block contents.
 
-Vercel [Demo]('https://nuxt-storyblok-blog.vercel.app')
+Vercel [Demo](https://nuxt-storyblok-blog.vercel.app)
+
 <img src="./screenshots/vscode.png" style="width:950px;height:550px;" />
 
 
