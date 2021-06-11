@@ -2,29 +2,16 @@
   <div> <footer class="relative px-8 py-6 md:py-4 mt-8 bg-green-100">
     <div class="max-w-screen-xl mx-auto md:flex md:items-center">
       <div class="text-center mb-4 md:mb-0 md:text-left flex-shrink-0 relative">
-        <a
-          href="https://www.agilitycms.com"
-          target="_blank"
-          rel="noreferrer"
-          title="Agility CMS"
-        >
-          <!-- <img
-            src="~/assets/agility-logo.svg"
-            alt="Agility CMS"
-            width="90"
-            height="24"
-            class="mx-auto"
-          /> -->
-        </a>
+         
       </div>
       <div class="flex-grow mb-4 md:mb-0">
         <p
           class="text-center md:text-left text-gray-600 text-xs md:ml-8 md:max-w-3xl"
         >
-          Powered by Headless CMS. This website and materials found on it are for
-          demo purposes.
+          Powered by Storyblok Headless CMS. This website and materials found on it are for
+          educational purpose.
           <a
-            href="https://github.com/agilitycms/agilitycms-gatsby-starter"
+            href="https://github.com/manojap"
             title="View on GitHub"
             target="_blank"
             rel="noreferrer"
@@ -33,7 +20,7 @@
             GitHub
           </a>
           <a
-            href="https://help.agilitycms.com/hc/en-us"
+            href="https://javascriptsu.wordpress.com"
             title="Help Center"
             target="_blank"
             rel="noreferrer"
@@ -41,22 +28,14 @@
           >
             Help Center
           </a>
-          <a
-            href="https://agilitycms.com/contact-us/chat-sales"
-            title="Contact Us"
-            target="_blank"
-            rel="noreferrer"
-            class="text-gray-600 border-b border-gray-600"
-          >
-            Contact Us
-          </a>
+           
         </p>
       </div>
       <div class="flex-1-grow">
         <ul class="flex justify-center md:justify-start">
           <li class="mx-4 md:mx-0">
             <a
-              href="https://www.twitter.com/agilitycms"
+              href="https://www.twitter.com/codehat_"
               title="Twitter"
               target="_blank"
               rel="noreferrer"
@@ -69,7 +48,7 @@
           </li>
           <li class="mx-4 md:mx-0">
             <a
-              href="https://www.instagram.com/agilitycms"
+              href="https://www.instagram.com/flowersandmacros"
               title="Instagram"
               target="_blank"
               rel="noreferrer"
@@ -80,32 +59,8 @@
               />
             </a>
           </li>
-          <li class="mx-4 md:mx-0">
-            <a
-              href="https://join.slack.com/t/agilitycms-community/shared_invite/zt-99qlv1hw-tpPOJ99V21Y2omtA_uTcJw"
-              title="Slack"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <fa
-                class="text-xl md:ml-8 text-primary-500 hover:text-primary-700 transition duration-300"
-                :icon="['fab', 'slack']"
-              />
-            </a>
-          </li>
-          <li class="mx-4 md:mx-0">
-            <a
-              href="https://www.youtube.com/channel/UCzKjErx94RLTbJctcrIgsDQ"
-              title="YouTube"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <fa
-                class="text-xl md:ml-8 text-primary-500 hover:text-primary-700 transition duration-300"
-                :icon="['fab', 'youtube']"
-              />
-            </a>
-          </li>
+           
+           
         </ul>
       </div>
     </div>
